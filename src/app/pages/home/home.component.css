@@ -1,0 +1,17 @@
+.mission {
+    padding-right: 300px;
+  }
+  .mission img {
+    height: 500px;
+    width:500px;
+  }
+  .blankspace h2{
+    padding: 40px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #49274A;
+  }
+  .blankspace{
+    height: 700px;
+  }

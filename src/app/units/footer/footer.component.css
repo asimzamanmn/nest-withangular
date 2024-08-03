@@ -1,0 +1,33 @@
+.footcontainer {
+    background-color:#49274A;
+    height: 310px;
+  }
+   .listinfooter {
+    list-style: none;
+   }
+  .footbox {
+    text-decoration: none;
+    color: orange;
+    margin: 20px;
+    padding: 20px;
+  
+  }
+  .end {
+    padding-top: 50px;
+    color: orange;
+  
+  }
+  .end a{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: orange;
+    text-decoration: none;
+  }
+  .end a:hover{
+    color: black;
+  }
+  .list {
+    text-decoration: none;
+    list-style: none;
+ }
